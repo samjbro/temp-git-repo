@@ -1,1 +1,1 @@
-const IMPORTANT_VALUE = "master-value";
+const IMPORTANT_VALUE = "another-master-value";
